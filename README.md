@@ -1,2 +1,2 @@
 # AltiumLibrary
-Altium designer library of electrinics components
+Altium designer library of electronics components
